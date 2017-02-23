@@ -1,0 +1,594 @@
+<!-- header -->
+<header class="header3" id="header3">
+
+  <nav role="navigation" class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <button data-target="#navbar-collapse-02" data-toggle="collapse" class="navbar-toggle" type="button">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a id="home" class="navbar-brand brand"><img src="images/logoIDDA-PNG64x64" /></a>
+      </div>
+
+
+      <div id="navbar-collapse-02" class="collapse navbar-collapse">
+        <ul class="nav navbar-nav navbar-left">
+          <li class="active"><a href="#">الرئيسية</a></li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">تعرف علينا <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="#">من نحن</a></li>
+              <li role="separator" class="divider"></li>
+              <li><a href="#">الفريق</a></li>
+              <li role="separator" class="divider"></li>
+              <li><a href="#">------المؤسس</a></li>
+            </ul>
+          </li>
+
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">مشروعاتنا السابقة <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="#">جميع المشروعات</a></li>
+              <li role="separator" class="divider"></li>
+              <li><a href="#">مدونات</a></li>
+              <li><a href="#">تطبيقات</a></li>
+              <li><a href="#">مواقع إجتماعية</a></li>
+              <li><a href="#">مواقع شخصية</a></li>
+              <li><a href="#">تمبليتات</a></li>
+              <li><a href="#">مدونات</a></li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">خدماتنا <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="#">جميع الخدمات</a></li>
+              <li role="separator" class="divider"></li>
+              <li><a href="#">تطوير الجانب التقني لشركتك</a></li>
+              <li><a href="#">التدريب الإحترافي و التعليم المنهجي</a></li>
+              <li role="separator" class="divider"></li>
+              <li><a href="#">الشراكة معك</a></li>
+            </ul>
+          </li>
+          <li><a class="nav-button" href="#">راسلنا</a></li>
+        </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+    </div>
+  </nav>
+
+  <!-- container -->
+
+</header>
+<!-- header -->
+<!-- OUR TEAM -->
+<!-- PORTFOLIO -->
+<!--======== blog update =========-->
+<!-- /.container -->
+<!--======== contact =========-->
+<!-- TOP FOOTER -->
+
+<!-- END TOP FOOTER -->
+
+<!-- BOTTOM FOOTER -->
+
+<!-- END BOTTOM FOOTER -->
+<!-- footer
+            =======================================-->
+
+<!-- header -->
+<!-- /.container -->
+<!-- OUR TEAM -->
+<!-- ****** Team Section****** -->
+<!--//team section -->
+<!-- ****** Team Section****** -->
+<!--//team section -->
+<!-- OUR TEAM -->
+<!-- OUR TEAM -->
+<!-- header -->
+<!--======== blog update =========-->
+<!-- PORTFOLIO -->
+<!-- header -->
+<!--======== pricing =========-->
+<section id="pricing-table1-2" class="pricing-table1-2">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <h1 class="section-title">أفضل العروض عند العدة التقنية</h1>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-4 col-sm-6 col-xs-12">
+        <div class="pricing-table wow zoomIn" data-wow-delay="0.2s">
+          <strong>الباقة الذهبية</strong>
+          <h3>500 درهم</h3>
+          <span>مدة أسبوع</span>
+          <ul class="list-items">
+            <li>صفحة <span>تابثة</span></li>
+            <li>تصميم <span>6</span> صفحات</li>
+            <li>تصميم <span>معرض صور</span></li>
+            <li>تصميم صفحة <span>404</span></li>
+            <li>إمكانية التصميم ب <span>Wordpress</span></li>
+            <li>تصميم <span>شعار</span></li>
+            <li>تصميم <span>متجاوب</span> مع الجوال</li>
+            <li>لغة <span>1</span></li>
+            <li><span>إستضافة لدى 000webhost</span></li>
+            <li>دومين <span>name.000webhost.com</span></li>
+            <li>بحجم <span>1000 MB</span></li>
+            <li>بغرض نطاق <span>10 GB</span></li>
+            <li>ببريد إلكتروني</li>
+            <li>ب <span>5</span> بريد إلكتروني شاحن</li>
+            <li>بلوحة تحكم</li>
+            <li>
+              <span>بحماية</span> من spam</li>
+            <li>POP3</li>
+            <li>IMAP</li>
+            <li>تعديل الدخول <span>MX</span></li>
+            <li><span>خدمة ما بعد البيع</span></li>
+            <li>التكلف بالموقع <span>1</span> شهر ما بعد البيع</li>
+            <li><span>3</span> حصص تعليمية لكيفية الإستعمال</li>
+          </ul>
+          <a href="#" class="btn btn-default" role="button">أطلبه الأن</a>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-6 col-xs-12">
+        <div class="pricing-table wow zoomIn" data-wow-delay="0.4s">
+          <strong>الباقة البلاتينية</strong>
+          <h3>1000 درهم</h3>
+          <span>مدة أسبوعين</span>
+          <ul class="list-items">
+            <li>صفحة <span>متفاعلة</span> لسهولة الإضافة</li>
+            <li>تصميم صفحات <span>لامحدود</span></li>
+            <li>تصميم <span>معرض صور</span> بصور <span>تكبيرية</span></li>
+            <li>تصميم صفحة <span>404</span></li>
+            <li>إمكانية التصميم ب <span>Wordpress</span></li>
+            <li>تصميم <span>شعار</span></li>
+            <li>تصميم <span>متجاوب</span> مع الجوال</li>
+            <li> <span>3</span> لغات </li>
+            <li><span>إستضافة إبتداءا من  شهر لدى أفضل الإستضافات العالمية</span></li>
+            <li>دومين <span>بإختيارك</span></li>
+            <li>بحجم <span>لا محدود</span></li>
+            <li>بغرض نطاق <span>لا محدود</span></li>
+            <li>ببريد إلكتروني <span>لا محدود</span></li>
+            <li> بريد إلكتروني شاحن <span>لا محدود</span></li>
+            <li>بلوحة تحكم</li>
+            <li> بشهادة <span>SSL</span></li>
+            <li>
+              <span>بحماية</span> من spam</li>
+            <li>POP3</li>
+            <li>IMAP</li>
+            <li>تعديل الدخول <span>MX</span></li>
+            <li><span>خدمة ما بعد البيع</span></li>
+            <li>التكلف بالموقع إبتداءا من <span>6</span>أشهر ما بعد البيع</li>
+            <li>إبتداءا من <span>6</span> حصص تعليمية لكيفية الإستعمال</li>
+          </ul>
+          <a href="#" class="btn btn-default" role="button">أطلبه الأن</a>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-12 col-xs-12">
+        <div class="pricing-table highlight-list wow zoomIn" data-wow-delay="0.6s">
+          <strong>الباقة الماسية</strong>
+          <h3>إبتداءا من 2000 درهم</h3>
+          <span>مدة شهر</span>
+          <ul class="list-items">
+            <li>تطبيق <span>متكامل</span> مع إمكانية التسجيل</li>
+            <li>تصميم صفحات <span>لامحدود</span></li>
+            <li>تصميم <span>معرض صور</span> بصور <span>تكبيرية</span></li>
+            <li>تصميم صفحة <span>404</span></li>
+            <li>إمكانية التصميم ب <span>Wordpress</span></li>
+            <li>تصميم <span>شعار</span></li>
+            <li>تصميم <span>متجاوب</span> مع الجوال</li>
+            <li> لغات <span>لا محدودة</span></li>
+            <li><span>إستضافة إبتداءا من  شهر لدى أفضل الإستضافات العالمية</span></li>
+            <li>دومين <span>بإختيارك</span></li>
+            <li>بحجم <span>لا محدود</span></li>
+            <li>بغرض نطاق <span>لا محدود</span></li>
+            <li>ببريد إلكتروني <span>لا محدود</span></li>
+            <li> بريد إلكتروني شاحن <span>لا محدود</span></li>
+            <li>بلوحة تحكم</li>
+            <li> بشهادة <span>SSL</span></li>
+            <li>
+              <span>بحماية</span> من spam</li>
+            <li>POP3</li>
+            <li>IMAP</li>
+            <li>تعديل الدخول <span>MX</span></li>
+            <li><span>خدمة ما بعد البيع</span></li>
+            <li>التكلف بالموقع إبتداءا من <span>1</span> عام ما بعد البيع</li>
+            <li>إبتداءا من حصص <span>8</span> تعليمية لكيفية الإستعمال</li>
+          </ul>
+          <a href="#" class="btn btn-primary" role="button">أطلبه الأن</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+<!--======== End pricing =========-->
+
+<!-- EXAMPLE -->
+
+
+<section id="blog1" class=" blog1">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2 text-center">
+        <h1 class="sec-title">بعض الأمثلة عن ما أنشأناه لعملاء بالباقة الذهبية </h1>
+        <p class="sec-sub-title"> ملاحظة : هذه الأمثلة تكون معدلة في الأثمان و الإختيارات على حسب رغبة العميل</p>
+      </div>
+    </div>
+
+    <div class="row owl-carousel">
+      <div class="item" dir="rtl">
+        <div class="col-xs-12">
+          <div class="blog-post wow fadeInUp" data-wow-delay="0.2s">
+            <div class="post-img">
+              <img class="img-responsive" src="https://placehold.it/500x330/333333?text=المشروع" alt="image">
+              <div class="date text-center"><span>اليوم</span>
+                <br>الشهر</div>
+              <!--<ul class="list-inline post-info">
+                    <li><i class="lnr lnr-eye"></i> 325</li>
+                    <li><i class="lnr lnr-bubble"></i> 74</li>
+                    <li class="post-tag text-uppercase">Style</li>
+                  </ul>-->
+            </div>
+            <div class="blog-details">
+              <h4 class="media-heading">إسم المشروع</h4>
+              <p>وصف المشروع</p>
+              <ul class="list-inline text-capitalize">
+                <li>لمن</li>
+                <li class="pull-right">النوع</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="item" dir="rtl">
+        <div class="col-xs-12">
+          <div class="blog-post wow fadeInUp" data-wow-delay="0.2s">
+            <div class="post-img">
+              <img class="img-responsive" src="https://placehold.it/500x330/333333?text=المشروع" alt="image">
+              <div class="date text-center"><span>اليوم</span>
+                <br>الشهر</div>
+              <!--<ul class="list-inline post-info">
+                    <li><i class="lnr lnr-eye"></i> 325</li>
+                    <li><i class="lnr lnr-bubble"></i> 74</li>
+                    <li class="post-tag text-uppercase">Style</li>
+                  </ul>-->
+            </div>
+            <div class="blog-details">
+              <h4 class="media-heading">إسم المشروع</h4>
+              <p>وصف المشروع</p>
+              <ul class="list-inline text-capitalize">
+                <li>لمن</li>
+                <li class="pull-right">النوع</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="item" dir="rtl">
+        <div class="col-xs-12">
+          <div class="blog-post wow fadeInUp" data-wow-delay="0.2s">
+            <div class="post-img">
+              <img class="img-responsive" src="https://placehold.it/500x330/333333?text=المشروع" alt="image">
+              <div class="date text-center"><span>اليوم</span>
+                <br>الشهر</div>
+              <!--<ul class="list-inline post-info">
+                    <li><i class="lnr lnr-eye"></i> 325</li>
+                    <li><i class="lnr lnr-bubble"></i> 74</li>
+                    <li class="post-tag text-uppercase">Style</li>
+                  </ul>-->
+            </div>
+            <div class="blog-details">
+              <h4 class="media-heading">إسم المشروع</h4>
+              <p>وصف المشروع</p>
+              <ul class="list-inline text-capitalize">
+                <li>لمن</li>
+                <li class="pull-right">النوع</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2 text-center">
+        <h1 class="sec-title">بعض الأمثلة عن ما أنشأناه لعملاء بالباقة البلاتينية</h1>
+        <p class="sec-sub-title"> ملاحظة : هذه الأمثلة تكون معدلة في الأثمان و الإختيارات على حسب رغبة العميل</p>
+      </div>
+    </div>
+
+    <div class="row owl-carousel">
+      <div class="item" dir="rtl">
+        <div class="col-xs-12">
+          <div class="blog-post wow fadeInUp" data-wow-delay="0.2s">
+            <div class="post-img">
+              <img class="img-responsive" src="https://placehold.it/500x330/333333?text=المشروع" alt="image">
+              <div class="date text-center"><span>اليوم</span>
+                <br>الشهر</div>
+              <!--<ul class="list-inline post-info">
+                    <li><i class="lnr lnr-eye"></i> 325</li>
+                    <li><i class="lnr lnr-bubble"></i> 74</li>
+                    <li class="post-tag text-uppercase">Style</li>
+                  </ul>-->
+            </div>
+            <div class="blog-details">
+              <h4 class="media-heading">إسم المشروع</h4>
+              <p>وصف المشروع</p>
+              <ul class="list-inline text-capitalize">
+                <li>لمن</li>
+                <li class="pull-right">النوع</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="item" dir="rtl">
+        <div class="col-xs-12">
+          <div class="blog-post wow fadeInUp" data-wow-delay="0.2s">
+            <div class="post-img">
+              <img class="img-responsive" src="https://placehold.it/500x330/333333?text=المشروع" alt="image">
+              <div class="date text-center"><span>اليوم</span>
+                <br>الشهر</div>
+              <!--<ul class="list-inline post-info">
+                    <li><i class="lnr lnr-eye"></i> 325</li>
+                    <li><i class="lnr lnr-bubble"></i> 74</li>
+                    <li class="post-tag text-uppercase">Style</li>
+                  </ul>-->
+            </div>
+            <div class="blog-details">
+              <h4 class="media-heading">إسم المشروع</h4>
+              <p>وصف المشروع</p>
+              <ul class="list-inline text-capitalize">
+                <li>لمن</li>
+                <li class="pull-right">النوع</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="item" dir="rtl">
+        <div class="col-xs-12">
+          <div class="blog-post wow fadeInUp" data-wow-delay="0.2s">
+            <div class="post-img">
+              <img class="img-responsive" src="https://placehold.it/500x330/333333?text=المشروع" alt="image">
+              <div class="date text-center"><span>اليوم</span>
+                <br>الشهر</div>
+              <!--<ul class="list-inline post-info">
+                    <li><i class="lnr lnr-eye"></i> 325</li>
+                    <li><i class="lnr lnr-bubble"></i> 74</li>
+                    <li class="post-tag text-uppercase">Style</li>
+                  </ul>-->
+            </div>
+            <div class="blog-details">
+              <h4 class="media-heading">إسم المشروع</h4>
+              <p>وصف المشروع</p>
+              <ul class="list-inline text-capitalize">
+                <li>لمن</li>
+                <li class="pull-right">النوع</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+
+
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2 text-center">
+        <h1 class="sec-title">بعض الأمثلة عن ما أنشأناه لعملاء بالباقة الماسية</h1>
+        <p class="sec-sub-title"> ملاحظة : هذه الأمثلة تكون معدلة في الأثمان و الإختيارات على حسب رغبة العميل</p>
+      </div>
+    </div>
+
+    <div class="row owl-carousel">
+      <div class="item" dir="rtl">
+        <div class="col-xs-12">
+          <div class="blog-post wow fadeInUp" data-wow-delay="0.2s">
+            <div class="post-img">
+              <img class="img-responsive" src="https://placehold.it/500x330/333333?text=المشروع" alt="image">
+              <div class="date text-center"><span>اليوم</span>
+                <br>الشهر</div>
+              <!--<ul class="list-inline post-info">
+                    <li><i class="lnr lnr-eye"></i> 325</li>
+                    <li><i class="lnr lnr-bubble"></i> 74</li>
+                    <li class="post-tag text-uppercase">Style</li>
+                  </ul>-->
+            </div>
+            <div class="blog-details">
+              <h4 class="media-heading">إسم المشروع</h4>
+              <p>وصف المشروع</p>
+              <ul class="list-inline text-capitalize">
+                <li>لمن</li>
+                <li class="pull-right">النوع</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="item" dir="rtl">
+        <div class="col-xs-12">
+          <div class="blog-post wow fadeInUp" data-wow-delay="0.2s">
+            <div class="post-img">
+              <img class="img-responsive" src="https://placehold.it/500x330/333333?text=المشروع" alt="image">
+              <div class="date text-center"><span>اليوم</span>
+                <br>الشهر</div>
+              <!--<ul class="list-inline post-info">
+                    <li><i class="lnr lnr-eye"></i> 325</li>
+                    <li><i class="lnr lnr-bubble"></i> 74</li>
+                    <li class="post-tag text-uppercase">Style</li>
+                  </ul>-->
+            </div>
+            <div class="blog-details">
+              <h4 class="media-heading">إسم المشروع</h4>
+              <p>وصف المشروع</p>
+              <ul class="list-inline text-capitalize">
+                <li>لمن</li>
+                <li class="pull-right">النوع</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="item" dir="rtl">
+        <div class="col-xs-12">
+          <div class="blog-post wow fadeInUp" data-wow-delay="0.2s">
+            <div class="post-img">
+              <img class="img-responsive" src="https://placehold.it/500x330/333333?text=المشروع" alt="image">
+              <div class="date text-center"><span>اليوم</span>
+                <br>الشهر</div>
+              <!--<ul class="list-inline post-info">
+                    <li><i class="lnr lnr-eye"></i> 325</li>
+                    <li><i class="lnr lnr-bubble"></i> 74</li>
+                    <li class="post-tag text-uppercase">Style</li>
+                  </ul>-->
+            </div>
+            <div class="blog-details">
+              <h4 class="media-heading">إسم المشروع</h4>
+              <p>وصف المشروع</p>
+              <ul class="list-inline text-capitalize">
+                <li>لمن</li>
+                <li class="pull-right">النوع</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+  </div>
+</section>
+
+<!--======== contact =========-->
+<section id="contact1" class="contact1">
+  <div class="container">
+    <div class="row">
+      <div class="contact-overlay">
+        <div class="col-md-6">
+          <h1 class="section-title wow zoomIn">Get In Touch</h1>
+          <div class="second-divider"><span class="left-divider"></span></div>
+          <p class="section-para">Lorem Ipsum adalah text contoh digunakan didalam industri pencetakan dan typesetting contoh semenjak tahun.</p>
+          <ul class="list-unstyled">
+            <li class="wow fadeInUp"><i class="fa fa-phone"></i> <span>977) 324 644 676 / (800) 123 456 789</span></li>
+            <li class="wow fadeInUp"><i class="fa fa-home"></i> <span>5 New York City, NY,United States</span></li>
+            <li class="wow fadeInUp"><i class="fa fa-envelope-o"></i> <span>admin@bootexperts.com</span></li>
+          </ul>
+          <ul class="list-inline social-links">
+            <li><i class="fa fa-linkedin"></i></li>
+            <li><i class="fa fa-facebook"></i></li>
+            <li><i class="fa fa-twitter"></i></li>
+            <li><i class="fa fa-google-plus"></i></li>
+            <li><i class="fa fa-dribbble"></i></li>
+          </ul>
+        </div>
+        <div class="col-md-6">
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="form-group wow fadeInUp" data-wow-delay="0.2s">
+                <label class="sr-only">الإسم الكامل</label>
+                <input type="text" name="completName" class="form-control" placeholder="الإسم الكامل" required>
+              </div>
+            </div>
+            <div class="col-sm-12">
+              <div class="form-group wow fadeInUp" data-wow-delay="0.2s">
+                <label class="sr-only">رقم البطاقة الوطنية</label>
+                <input type="text" name="CIN" class="form-control" placeholder="رقم البطاقة الوطنية" required>
+              </div>
+            </div>
+            <div class="col-sm-12">
+              <div class="form-group wow fadeInUp" data-wow-delay="0.6s">
+                <label class="sr-only">رقم الهاتف</label>
+                <input type="tel" name="phoneNumber" class="form-control" placeholder="رقم الهاتف" required>
+              </div>
+            </div>
+            <div class="col-sm-12">
+              <div class="form-group wow fadeInUp" data-wow-delay="0.4s">
+                <label class="sr-only">البريد الإلكتروني</label>
+                <input type="email" name="email" class="form-control" placeholder="البريد الإلكتروني">
+              </div>
+            </div>
+
+            <div class="col-xs-12">
+
+              <div class="col-xs-12 text-center">مذا يمثل التطبيق</div>
+              <div class="form-group wow fadeInUp col-xs-6" data-wow-delay="0.4s">
+                <label class="form-control col-sm-3">يمثل شركة</label>
+                <input type="radio" name="for" class="form-control col-xs-3" />
+              </div>
+
+              <div class="form-group wow fadeInUp col-xs-6" data-wow-delay="0.4s">
+                <label class="form-control col-xs-3">يمثلني</label>
+                <input type="radio" name="for" class="form-control col-sm-3" />
+              </div>
+
+            </div>
+            <div class="col-sm-6">
+              <div class="form-group wow fadeInUp" data-wow-delay="0.4s">
+                <label class="sr-only">الباقة المختارة</label>
+                <select name="pack" class="form-control">
+                  <option class="form-control"> الباقة الذهبية</option>
+                  <option class="form-control"> الباقة البلاتينية</option>
+                  <option class="form-control"> الباقة الماسية</option>
+                </select>
+              </div>
+            </div>
+            <div class="col-sm-12">
+              <div class="form-group wow fadeInUp" data-wow-delay="0.4s">
+                <label class="sr-only">ملاحظاتك عن الباقة</label>
+                <textarea class="form-control" name="messagePack"></textarea>
+              </div>
+            </div>
+            <div class="col-sm-6">
+              <div class="form-group wow fadeInUp" data-wow-delay="0.4s">
+                <label class="sr-only">إسم التطبيق</label>
+                <input type="text" name="nameApp" class="form-control" placeholder="إسم التطبيق">
+              </div>
+            </div>
+            <div class="col-sm-6">
+              <div class="form-group wow fadeInUp" data-wow-delay="0.4s">
+                <label class="sr-only">الدومينات المرادة</label>
+                <textarea class="form-control" name="domainName" placeholder="الدومينات المرادة"></textarea>
+              </div>
+            </div>
+            <div class="col-sm-12">
+              <div class="form-group wow fadeInUp" data-wow-delay="0.4s">
+                <label class="sr-only">أنشطة التطبيق و الشركة</label>
+                <textarea class="form-control" name="activity" placeholder="أنشطة التطبيق و الشركة"></textarea>
+              </div>
+            </div>
+
+            <div class="col-sm-12">
+              <div class="form-group wow fadeInUp" data-wow-delay="0.4s">
+                <label class="sr-only">إضافيات</label>
+                <textarea class="form-control" name="addMessage" placeholder="إضافيات"></textarea>
+              </div>
+            </div>
+            <div class="col-sm-12">
+              <div class="form-group wow fadeInUp col-sm-6" data-wow-delay="1s">
+                <button type="submit" class="btn btn-default">Send Massage</button>
+              </div>
+
+              <div class="form-group wow fadeInUp col-sm-6" data-wow-delay="1s">
+                <button type="cancel" class="btn btn-default">Send Massage</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

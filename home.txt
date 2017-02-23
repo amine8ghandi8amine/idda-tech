@@ -1,0 +1,1038 @@
+
+    <!-- header -->
+    <header class="header3" id="header3">
+
+      <nav role="navigation" class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+          <div class="navbar-header">
+            <button data-target="#navbar-collapse-02" data-toggle="collapse" class="navbar-toggle" type="button">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a id="home" class="navbar-brand brand"><img src="images/logoIDDA-PNG64x64" /></a>
+          </div>
+
+
+          <div id="navbar-collapse-02" class="collapse navbar-collapse">
+            <ul class="nav navbar-nav navbar-left">
+              <li class="active"><a href="#">الرئيسية</a></li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">تعرف علينا <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">من نحن</a></li>
+                  <li role="separator" class="divider"></li>
+                  <li><a href="#">الفريق</a></li>
+                  <li role="separator" class="divider"></li>
+                  <li><a href="#">------المؤسس</a></li>
+                </ul>
+              </li>
+
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">مشروعاتنا السابقة <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">جميع المشروعات</a></li>
+                  <li role="separator" class="divider"></li>
+                  <li><a href="#">مدونات</a></li>
+                  <li><a href="#">تطبيقات</a></li>
+                  <li><a href="#">مواقع إجتماعية</a></li>
+                  <li><a href="#">مواقع شخصية</a></li>
+                  <li><a href="#">تمبليتات</a></li>
+                  <li><a href="#">مدونات</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">خدماتنا <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">جميع الخدمات</a></li>
+                  <li role="separator" class="divider"></li>
+                  <li><a href="#">تطوير الجانب التقني لشركتك</a></li>
+                  <li><a href="#">التدريب الإحترافي و التعليم المنهجي</a></li>
+                  <li role="separator" class="divider"></li>
+                  <li><a href="#">الشراكة معك</a></li>
+                </ul>
+              </li>
+              <li><a class="nav-button" href="#">راسلنا</a></li>
+            </ul>
+          </div>
+          <!-- /.navbar-collapse -->
+        </div>
+      </nav>
+
+      <div class="container">
+        <div class="intro center-content">
+          <div class="row owl-carousel">
+            <div class="col-xs-12">
+              <div dir="rtl" class="col-md-7">
+
+
+
+                <h1 class="cairoArabe">حان وقت التفتح نحو العالم الرقمي</h1>
+                <hr>
+                <h3 class="cairoArabe whiteBackgroundTRANSPARENT mediumPadding borderRadius15">
+                    العدة التقنية تقدم لك أفقا جديدة للتفتح, التوسع أو الظهور بمظهر لائق يلائم شخصية أعمالك
+                </h3>
+
+                <div class="col-sm-4 whiteBackgroundFEW-TRANSPARENT mediumPadding borderRadius100">
+                  <h4 class="myInitialColor cairoArabe">أتحتاج من يتكلف بأعمالك التقنية ؟</h4>
+                  <hr />
+                  <a href="#about" class="btn btn-1 page-scroll bottomHalfRound secondColorInTheBackground cairoArabe mediumFontSize bold">تعرف علينا أكثر</a>
+                </div>
+                <div class="col-sm-4 whiteBackgroundFEW-TRANSPARENT mediumPadding borderRadius100">
+                  <h4 class="myThirdColor cairoArabe">أتحتاج أفكارا جديدة, جميلة و مربحة</h4>
+                  <hr />
+                  <a href="#projects" class="btn btn-2 page-scroll bottomHalfRound initialColorInTheBackground cairoArabe mediumFontSize bold">تعرف على بعض خدماتنا</a>
+                </div>
+                <div class="col-sm-4 whiteBackgroundFEW-TRANSPARENT mediumPadding borderRadius100">
+                  <h4 class="mySecondColor cairoArabe">أتحتاج من يأخد بيدك في هذا العالم الكبير</h4>
+                  <hr />
+                  <a href="#testimonials" class="btn btn-3 page-scroll bottomHalfRound thirdColorInTheBackground cairoArabe mediumFontSize bold">أنضر أعمالنا السابقة</a>
+                </div>
+
+
+
+              </div>
+            </div>
+            <div class="col-xs-12">
+              <div dir="rtl" class="col-md-7">
+
+                <h1 class="text-left pull-stop">فرصتك اللتي تنتظر بفارغ الصبر حضرت لم يبقى إلا أن تطلبها من العدة التقنية</h1>
+                <p class="text-left">
+                  إذا كنت عاطل عن العمل يمكن للعدة التقنية أن تمدك بأفكار لربح المال على الشبكة العنكبوتية أو موقع تدير به أنواعا من التسويق الإلكتروني .
+                  <br /> مهما كانت مشكلتك في الحياة فنحن سنتحداها بإذن الله .
+
+
+
+
+
+                </p>
+
+                <div class="text-left">
+                  <a href="#" class="btn btn-info button">Get Started</a>
+                  <a href="#" class="btn btn-success button">Download</a>
+                </div>
+
+              </div>
+              <div class="col-md-5">
+                <img class="img-responsive" src="images/mac-iphone.png" alt="mac image">
+              </div>
+
+            </div>
+            <div class="col-xs-12">
+              <div dir="rtl" class="col-md-7">
+
+                <h1 class="text-left pull-stop">أنت فائز و نحن فائزون و زبنائك أيضا فائزون</h1>
+                <p class="text-left">
+                  إذا كنت جديدا في أي مجال أو عندك فكرة تريد أن تربح من ورائها مالا فقد وجدت ضالتك.
+                  <br /> إذا كنت صاحب مشروع غير ربحي و تريد أن تفيد المجتمع بفكرة و لم تجد من يساهم معك لا تذهب بعيدا لأن العدة التقنية يمكن أن تنقص من الأتمان إلى 0
+                  <br />
+
+                </p>
+
+                <div class="text-left">
+                  <a href="#" class="btn btn-info button">Get Started</a>
+                  <a href="#" class="btn btn-success button">Download</a>
+                </div>
+
+              </div>
+              <div class="col-md-5">
+                <img class="img-responsive" src="images/mac-iphone.png" alt="mac image">
+              </div>
+
+            </div>
+          </div>
+          <!-- row -->
+
+        </div>
+        <!-- intro -->
+
+      </div>
+      <!-- container -->
+
+    </header>
+
+
+    <section id="content2-1" class="content2-1">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-10 col-md-offset-1">
+            <div class="text-center">
+              <span> بمذا يمكننا أن نفيدك ؟</span>
+              <h1 class="content-title">يمكن للعدة التقنية أن تتكلف بكل جانب تقنني يطور شركتك و يفتح مجالات جديدة لك في الشبكة العنكبوتية </h1>
+
+              <!--<div class="text-center">
+                <a href="#" class="btn btn-info button">Join Us</a>
+                <a href="#" class="btn btn-success button">Download</a>
+              </div>-->
+            </div>
+            <!-- header -->
+            <div class="divider4">
+
+              <div class="divider">
+
+                <hr class="shadowDown">
+
+              </div>
+              <!-- /.divider -->
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="content1-7" class="content1-7">
+      <div class="container">
+        <div class="row">
+          <h1 class="text-center"><a>خدماتنا</a></h1>
+          <div class="col-md-4 margin-top">
+            <ul class="media-list">
+              <li class="media single-content">
+                <div class="media-right pull-right">
+                  <i class="fa fa-terminal"></i>
+                </div>
+                <div class="media-body text-right">
+                  <h3><a href="#">برمجة</a></h3>
+                  <div>
+                    <ul>
+                      <li><a>برمجة تطبيق يتكلف بتنظيم شركتك
+
+                      </a></li>
+                      <li><a> برمجة نسخة إفتراضية لشركتك يمكن العمل لديك من الشبكة العنكبوتية
+
+                      </a></li>
+                      <li><a>برمجة سوق لمنتجاتك في الشبكة العنكبوتية
+
+                      </a></li>
+                      <li><a>برمجة مدرسة إفتراضية لكي تديرها على الشبكة العنكبوتية
+
+                      </a></li>
+                      <li><a>برمجة منتدى لزبنائك
+
+                      </a></li>
+                      <li><a>برمجة سيرة ذاتية حديتة لإبهار أرباب العمل
+
+                      </a></li>
+                      <li><a>برمجة صحيفة أو قناة أو راديو على الشبكة العنكبوتية
+
+                      </a></li>
+                      <li><a>إعادة برمجة موقعك السابق بأخر التقنيات</a></li>
+                      <li><a>برمجة موقع لجمع تبرعات خيرية لبرنامجك</a></li>
+                      <li><a id="portfolio">عرض أعمالك الحرفية أو الفنية بشكل لائق على الشبكة العنكبوتية</a></li>
+                      <li><a>وأكثر من ذلك و حسب رغبتك</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+              <li class="media single-content">
+                <div class="media-right pull-right">
+                  <i class="fa fa-wifi"></i>
+                </div>
+                <div class="media-body text-right">
+                  <h3><a>التقنية</a></h3>
+                  <div>
+                    <ul>
+                      <li><a>التكلف التقني الكامل لشركتك</a></li>
+                      <li><a>التكلف ببعض المهام مهما صغرت</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+              <li class="media single-content">
+                <div class="media-right pull-right">
+                  <i class="fa fa-line-chart"></i>
+                </div>
+                <div class="media-body text-right">
+                  <h3><a>تسويق إلكتروني</a></h3>
+                  <div>
+                    <ul>
+                      <li><a>إتبات وجودك في الشبكة العنكبوتية بالإشهارات و المواقع</a></li>
+                      <li><a>او أكذر على حسب طلبك</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+              <li class="media single-content">
+                <div class="media-right pull-right">
+                  <i class="fa fa-thumbs-o-up"></i>
+                </div>
+                <div class="media-body text-right">
+                  <h3><a>الشراكة معك</a></h3>
+                  <div>
+                    <ul>
+                      <li><a>بيع منتجاتك في الشبكة العنكبوتية</a></li>
+                      <li><a>الدخول معك في مشروع برنامجي</a></li>
+                      <li><a>إكمال تطوير تطبيقك</a></li>
+                      <li><a>إصلاح أخطائك البرمجية</a></li>
+                      <li><a>تحويل كتابك إلى موقع</a></li>
+                      <li><a>العمل معك كأطر إداري في موقعك</a></li>
+                      <li><a>تخويل شركتك أو مدرستك إلى شكل إفتراضي يمكن من خلاله الربح من الشبكة العنكبوتية</a></li>
+                      <li><a>وأكذر حسب الفكرة</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+
+          <div class="col-md-4">
+            <div class=""><img class="img-responsive" src="images/iphone-graph.png" alt="#"></div>
+          </div>
+          <div class="col-md-4 margin-top">
+            <ul class="media-list">
+              <li class="media single-content">
+                <div class="media-left pull-left">
+                  <i class="fa fa-graduation-cap"></i>
+                </div>
+                <div class="media-body">
+                  <h3><a>التدريب الإحترافي و التعليم المنهجي</a></h3>
+                  <div>
+                    <ul>
+                      <li><a>تعليمك و الأخد بيدك من البداية إلى إحتراف تطوير المواقع</a></li>
+                      <li><a>تدريب فريقك التقني</a></li>
+                      <li><a>تعليمك كيف تصنع مكتبات تستخدمها لأي مشروع برنامجي قادم</a></li>
+                      <li><a>تطوير الجانب التقني لشركتك</a></li>
+                      <li><a>وأكتر من ذلك</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+              <li class="media single-content">
+                <div class="media-left pull-left">
+                  <i class="fa fa-info"></i>
+                </div>
+                <div class="media-body">
+                  <h3><a>مساعدتك</a></h3>
+                  <div>
+                    <ul>
+                      <li><a>تزويدك ب عمال تقنيين مؤقتين و مدربين</a></li>
+                      <li><a>إكمال تطوير تطبيقك</a></li>
+                      <li><a>إصلاح أخطائك البرمجية</a></li>
+                      <li><a>ننصحك و نرافقك و نأخد بيدك في هذا العالم</a></li>
+                      <li><a>وأكثر من ذلك حسب المشكل</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+              <li class="media single-content">
+                <div class="media-left pull-left">
+                  <i class="fa fa-pencil"></i>
+                </div>
+                <div class="media-body">
+                  <h3><a>أفكار أخرى</a></h3>
+                  <div>
+                    <ul>
+                      <li><a>تحويل كتابك إلى موقع</a></li>
+                      <li><a>ترجمة موقعك إلى لغات متعددة</a></li>
+                      <li><a>وأكثر حسب مجالك</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!-- end row -->
+      </div>
+      <!-- end container -->
+    </section>
+
+    <section id="content2-1" class="content2-1">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-10 col-md-offset-1">
+            <div class="text-center">
+              <span>لمذا يجب أن تتعامل معنا في مشروعاتك القادمة ؟</span>
+              <h1 class="content-title">العدة التقنية لديها خدمة ما بعد البيع طويلة المدى و يمكن لها أن تعطيع دروس على مشروعك القادم معنا.</h1>
+
+
+
+              <!--<div class="text-center">
+                <a href="#" class="btn btn-info button">Join Us</a>
+                <a href="#" class="btn btn-success button">Download</a>
+              </div>-->
+            </div>
+            <!-- header -->
+            <div class="divider4">
+
+              <div class="divider">
+
+                <hr class="shadowDown">
+
+              </div>
+              <!-- /.divider -->
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="content2-9" class="content2-9">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12">
+            <h3 class="text-center"> مراحل الخدمة</h3>
+            <div class="col-md-3 text-center">
+
+              <div class="single-content text-center">
+                <div class="item-icon"><i class="fa fa-crosshairs"></i></div>
+                <div class="item-text">
+                  <h3>0001</h3>
+                  <p> تحديد معك الأهداف و التصميم و مكونات المشروع و مستقبله بدقة كاملة</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3 text-center">
+              <div class="single-content text-center">
+                <div class="item-icon"><i class="fa fa-rss"></i></div>
+                <div class="item-text">
+                  <h3>0002</h3>
+                  <p>الأخبار و مراحل إنشاء المشروع والإستشارة معك في أي خطوة كأنك تشتغل معنا في الفريق</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3 text-center">
+              <div class="single-content text-center">
+                <div class="item-icon"><i class="fa fa-refresh"></i></div>
+                <div class="item-text">
+                  <h3>0003</h3>
+                  <p> خدمة ما بعد البيع تصل إلى مدى الحياة</p>
+
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3 text-center">
+              <div class="single-content text-center">
+                <div class="item-icon"><i class="fa fa-money"></i></div>
+                <div class="item-text">
+                  <h3>004</h3>
+                  <p>دروس على مشروعك الجديد
+                    <br />و نسبة أرباح عند إحضار عملاء من طرفك</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- end row -->
+      </div>
+      <!-- end container -->
+    </section>
+    <section id="content2-4" class="content2-4">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3">
+            <div class="text-center">
+              <a href="#" class="btn btn-info button">أرسل طلب لخدمة معينة</a>
+              <br />
+              <a href="#" class="">إطلع أكثر على خدماتنا</a>
+            </div>
+          </div>
+          <div class="col-md-9">
+            <div class="text-left">
+              <h2 class="content-title"><i class="fa fa-quote-right quote"></i> وإذا كانت النفوس كبار
+                <br /> تعبت في مرادها الأجسام <i class="fa fa-quote-left quote"></i>  <span>- المُتَنَبّي
+</span></h2>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+    <section id="content2-1" class="content2-1">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-md-10 col-md-offset-1">
+            <div class="text-center">
+              <span> من نحن ؟</span>
+              <h1 class="content-title"> أعضاء فريق متعاون و إبداعي برؤية مستقبلية للعالم الواقعي بنضرة افتراضية </h1>
+
+              <!--<div class="text-center">
+                <a href="#" class="btn btn-info button">Join Us</a>
+                <a href="#" class="btn btn-success button">Download</a>
+              </div>-->
+            </div>
+            <!-- header -->
+            <div class="divider4">
+
+              <div class="divider">
+
+                <hr class="shadowDown">
+
+              </div>
+              <!-- /.divider -->
+
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+    <!-- OUR TEAM -->
+    <section id="team" class="team1">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-5 col-sm-4 col-xs-12 team-bg">
+            <div class="team-play center-vertically text-center">
+              <h4>عبر عن مشروعك</h4>
+              <strong>مع</strong>
+              <h2>العدة التقنية</h2>
+              <p>القنيطرة , المغرب</p>
+            </div>
+          </div>
+          <div class="col-md-7 col-sm-8 col-xs-12">
+            <div class="team-members">
+              <div class="tag">فريقنا الإبداعي ؟</div>
+              <h3>نحن مجموعة من المطورين و مصممين .</h3>
+              <div class="row">
+                <div class="col-md-4 col-sm-4">
+                  <div class="member">
+                    <img class="img-responsive" src="images/member1.2.jpg" alt="Team Image">
+                    <div class="team-overflow center-vertically text-center">
+                      <strong>المغيلي محمد أمين</strong>
+                      <div class="position">المؤسس , مطور و مصمم</div>
+                      <div><i class="fa fa-envelope-o team-icon"></i><i class="fa fa-twitter team-icon"></i></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="content2-4" class="content2-4">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3">
+            <div class="text-center">
+              <a href="#" class="btn btn-info button">أرسل طلب لخدمة معينة</a>
+              <br />
+              <a href="#" class="">إطلع أكثر على الفريق</a>
+            </div>
+          </div>
+          <div class="col-md-9">
+            <div class="text-left">
+              <h2 class="content-title"><i class="fa fa-quote-right quote"></i>  . الثقة هي جسر الحياة الصحيح التي نمضي عليه <i class="fa fa-quote-left quote"></i>  <span>- المُتَنَبّي
+</span></h2>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- PORTFOLIO -->
+    <section id="portfolio" class="portfolio1">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <h1 class="section-title">أعمالنا السابقة</h1>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-12 text-center">
+
+            <div class="portfolio-filter">
+              <ul class="list-inline text-uppercase">
+                <li data-filter="*" class="active">جميع الأعمال</li>
+                <li data-filter=".blog">مدونات</li>
+                <li data-filter=".app">تطبيقات</li>
+                <li data-filter=".forum">مواقع إجتماعية</li>
+                <li data-filter=".personal">مواقع شخصية</li>
+                <li data-filter=".template">تمبليتات</li>
+              </ul>
+            </div>
+            <!-- /.portfolioFilter -->
+
+            <div class="portfolio-items1" style="position: relative; height: 855px;">
+
+              <div class="single-item blog motion-video" style="width: 285px; height: 285px; position: absolute; left: 0px; top: 0px;">
+                <div class="project-content">
+                  <img class="img-responsive" src="images/portfolio1.jpg">
+                  <div class="project-overflow center-vertically text-center">
+                    <strong>Project Title</strong>
+                    <p>Branding, Graphic Design</p>
+                    <ul class="list-inline">
+                      <li><i class="fa fa-heart"></i></li>
+                      <li><i class="fa fa-link"></i></li>
+                      <li><i class="fa fa-camera"></i></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <div class="single-item app" style="width: 285px; height: 285px; position: absolute; left: 285px; top: 0px;">
+                <div class="project-content">
+                  <img class="img-responsive" src="images/portfolio2.jpg">
+                  <div class="project-overflow center-vertically text-center">
+                    <strong>Project Title</strong>
+                    <p>Branding, Graphic Design</p>
+                    <ul class="list-inline">
+                      <li><i class="fa fa-heart"></i></li>
+                      <li><i class="fa fa-link"></i></li>
+                      <li><i class="fa fa-camera"></i></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <div class="single-item forum" style="width: 285px; height: 285px; position: absolute; left: 570px; top: 0px;">
+                <div class="project-content">
+                  <img class="img-responsive" src="images/portfolio3.jpg">
+                  <div class="project-overflow center-vertically text-center">
+                    <strong>Project Title</strong>
+                    <p>Branding, Graphic Design</p>
+                    <ul class="list-inline">
+                      <li><i class="fa fa-heart"></i></li>
+                      <li><i class="fa fa-link"></i></li>
+                      <li><i class="fa fa-camera"></i></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <div class="single-item personal" style="width: 285px; height: 285px; position: absolute; left: 855px; top: 0px;">
+                <div class="project-content">
+                  <img class="img-responsive" src="images/portfolio4.jpg">
+                  <div class="project-overflow center-vertically text-center">
+                    <strong>Project Title</strong>
+                    <p>Branding, Graphic Design</p>
+                    <ul class="list-inline">
+                      <li><i class="fa fa-heart"></i></li>
+                      <li><i class="fa fa-link"></i></li>
+                      <li><i class="fa fa-camera"></i></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <div class="single-item template" style="width: 285px; height: 285px; position: absolute; left: 0px; top: 285px;">
+                <div class="project-content">
+                  <img class="img-responsive" src="images/portfolio5.jpg">
+                  <div class="project-overflow center-vertically text-center">
+                    <strong>Project Title</strong>
+                    <p>Branding, Graphic Design</p>
+                    <ul class="list-inline">
+                      <li><i class="fa fa-heart"></i></li>
+                      <li><i class="fa fa-link"></i></li>
+                      <li><i class="fa fa-camera"></i></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <div class="single-item app personal" style="width: 285px; height: 285px; position: absolute; left: 285px; top: 285px;">
+                <div class="project-content">
+                  <img class="img-responsive" src="images/portfolio1.jpg">
+                  <div class="project-overflow center-vertically text-center">
+                    <strong>Project Title</strong>
+                    <p>Branding, Graphic Design</p>
+                    <ul class="list-inline">
+                      <li><i class="fa fa-heart"></i></li>
+                      <li><i class="fa fa-link"></i></li>
+                      <li><i class="fa fa-camera"></i></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <div class="single-item forum blog" style="width: 285px; height: 285px; position: absolute; left: 570px; top: 285px;">
+                <div class="project-content">
+                  <img class="img-responsive" src="images/portfolio2.jpg">
+                  <div class="project-overflow center-vertically text-center">
+                    <strong>Project Title</strong>
+                    <p>Branding, Graphic Design</p>
+                    <ul class="list-inline">
+                      <li><i class="fa fa-heart"></i></li>
+                      <li><i class="fa fa-link"></i></li>
+                      <li><i class="fa fa-camera"></i></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <div class="single-item forum app" style="width: 285px; height: 285px; position: absolute; left: 855px; top: 285px;">
+                <div class="project-content">
+                  <img class="img-responsive" src="images/portfolio3.jpg">
+                  <div class="project-overflow center-vertically text-center">
+                    <strong>Project Title</strong>
+                    <p>Branding, Graphic Design</p>
+                    <ul class="list-inline">
+                      <li><i class="fa fa-heart"></i></li>
+                      <li><i class="fa fa-link"></i></li>
+                      <li><i class="fa fa-camera"></i></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <div class="single-item graphic template blog" style="width: 285px; height: 285px; position: absolute; left: 0px; top: 570px;">
+                <div class="project-content">
+                  <img class="img-responsive" src="images/portfolio4.jpg">
+                  <div class="project-overflow center-vertically text-center">
+                    <strong>Project Title</strong>
+                    <p>Branding, Graphic Design</p>
+                    <ul class="list-inline">
+                      <li><i class="fa fa-heart"></i></li>
+                      <li><i class="fa fa-link"></i></li>
+                      <li><i class="fa fa-camera"></i></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <div class="single-item personal app" style="width: 285px; height: 285px; position: absolute; left: 285px; top: 570px;">
+                <div class="project-content">
+                  <img class="img-responsive" src="images/portfolio5.jpg">
+                  <div class="project-overflow center-vertically text-center">
+                    <strong>Project Title</strong>
+                    <p>Branding, Graphic Design</p>
+                    <ul class="list-inline">
+                      <li><i class="fa fa-heart"></i></li>
+                      <li><i class="fa fa-link"></i></li>
+                      <li><i class="fa fa-camera"></i></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <div class="single-item  template blog" style="width: 285px; height: 285px; position: absolute; left: 570px; top: 570px;">
+                <div class="project-content">
+                  <img class="img-responsive" src="images/portfolio1.jpg">
+                  <div class="project-overflow center-vertically text-center">
+                    <strong>Project Title</strong>
+                    <p>Branding, Graphic Design</p>
+                    <ul class="list-inline">
+                      <li><i class="fa fa-heart"></i></li>
+                      <li><i class="fa fa-link"></i></li>
+                      <li><i class="fa fa-camera"></i></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <div class="single-item template personal" style="width: 285px; height: 285px; position: absolute; left: 855px; top: 570px;">
+                <div class="project-content">
+                  <img class="img-responsive" src="images/portfolio2.jpg">
+                  <div class="project-overflow center-vertically text-center">
+                    <strong>Project Title</strong>
+                    <p>Branding, Graphic Design</p>
+                    <ul class="list-inline">
+                      <li><i class="fa fa-heart"></i></li>
+                      <li><i class="fa fa-link"></i></li>
+                      <li><i class="fa fa-camera"></i></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="content2-1" class="content2-1">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-md-10 col-md-offset-1">
+            <div class="text-center">
+              <span> هل لنا من مصدافية ؟</span>
+              <h1 class="content-title">  يمكنك أن تزور العدة التقنية في موقعها أو تتصل أو ترسل رسالة إلكترونية سننتظر تفاعلك </h1>
+
+              <!--<div class="text-center">
+                <a href="#" class="btn btn-info button">Join Us</a>
+                <a href="#" class="btn btn-success button">Download</a>
+              </div>-->
+            </div>
+            <!-- header -->
+            <div class="divider4">
+
+              <div class="divider">
+
+                <hr class="shadowDown">
+
+              </div>
+              <!-- /.divider -->
+
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!--======== contact =========-->
+    <section id="contact" class="contact5">
+      <div class="row">
+        <div class="contact-overlay">
+          <div class="col-md-12 p-0">
+            <!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d233667.82239186848!2d90.279237521418!3d23.78088745652823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8b087026b81%3A0x8fa563bbdd5904c2!2sDhaka+1000-1200!5e0!3m2!1sen!2sbd!4v1452580729106" width="100%" height="300" frameborder="0" allowfullscreen=""></iframe>-->
+
+            <iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCGQIWIuUTC-uyFKc-uMxJ6m4i-HhW5nPk
+    &q=Allal+Tazi,+Maroc" width="100%" height="300" frameborder="0" allowfullscreen=""></iframe>
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6">
+              <h1 class="section-title text-center">تفاعل معنا</h1>
+              <div class="row">
+                <div class="col-sm-6">
+                  <div class="form-group">
+                    <label class="sr-only">الإسم</label>
+                    <input type="text" name="name" class="form-control" placeholder="الإسم">
+                  </div>
+                </div>
+                <div class="col-sm-6">
+                  <div class="form-group">
+                    <label class="sr-only">البريد الإلكتروني</label>
+                    <input type="email" name="email" class="form-control" placeholder="البريد الإلكتروني">
+                  </div>
+                </div>
+                <div class="col-sm-12">
+                  <div class="form-group" data-wow-delay="0.6s">
+                    <label class="sr-only">رقم الهاتف</label>
+                    <input type="tel" name="phone-number" class="form-control" placeholder="رقم الهاتف">
+                  </div>
+                </div>
+                <div class="col-sm-12 ">
+                  <div class="form-group">
+                    <label class="sr-only">الرسالة</label>
+                    <textarea class="form-control textarea" name="message" rows="5" placeholder="الرسالة"></textarea>
+                  </div>
+                </div>
+                <div class="col-sm-12">
+                  <div class="form-group">
+                    <button type="submit" class="btn btn-default btn-block">أرسل</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-5 col-md-offset-1 col-sm-6">
+              <h1 class="section-title">معلوماتنا</h1>
+              <p class="section-para">Lorem Ipsum adalah text contoh digunakan didalam industri pencetakan dan typesetting contoh semenjak tahun.</p>
+              <ul class="list-unstyled">
+                <li class="addr-title">Address Info</li>
+                <li><i class="fa fa-phone"></i> <span>+212 6 44 48 98 46</span></li>
+                <li><i class="fa fa-home"></i> <span> 212 , تجزئة الهدى , علال التازي , المغرب</span></li>
+                <li><i class="fa fa-envelope-o"></i> <span>mohamed-amine-mrhili@hotmail.com</span></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- TOP FOOTER -->
+    <section class="footer1">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3">
+            <h1><i class="fa fa-codepen"></i> Eden</h1>
+            <p>sapiente, nam sunt rem beatae architecto cupiditate.</p>
+            <div class="media">
+              <div class="media-left"><a href="#"><i class="fa fa-home"></i></a></div>
+              <div class="media-body">
+                <h5 class="media-heading">Address</h5>
+                <p>Lebel 2, 13 Elezabe St, Melbounire, Victoria 3000 </p>
+              </div>
+            </div>
+            <div class="media">
+              <div class="media-left">
+                <a href="#"><i class="fa fa-envelope-o"></i></a>
+              </div>
+              <div class="media-body">
+                <h5 class="media-heading">Having any questions?</h5>
+                <p>support@settletheme.com</p>
+              </div>
+            </div>
+            <div class="media">
+              <div class="media-left">
+                <a href="#"><i class="fa fa-phone"></i></a>
+              </div>
+              <div class="media-body">
+                <h5 class="media-heading">Call us &amp; Hair us</h5>
+                <p>+61(0)7 9180 3458</p>
+              </div>
+            </div>
+            <div class="media">
+              <div class="media-left">
+                <a href="#"><i class="fa fa-fax"></i></a>
+              </div>
+              <div class="media-body">
+                <h5 class="media-heading">Fax</h5>
+                <p>+(921) 34256537893</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <h4>Fresh Tweets</h4>
+            <div class="media">
+              <div class="media-left">
+                <a href="#"><i class="fa fa-twitter"></i></a>
+              </div>
+              <div class="media-body">
+                <p><a href="#">@Steeltheme,</a> Porton HTML various out now</p>
+                <strong>10 Mins Ago</strong>
+              </div>
+            </div>
+            <div class="media">
+              <div class="media-left">
+                <a href="#"><i class="fa fa-twitter"></i></a>
+              </div>
+              <div class="media-body">
+                <p><a href="#">@envato,</a> Porton HTML various out now, search more market</p>
+                <strong>10 Mins Ago</strong>
+              </div>
+            </div>
+            <div class="media">
+              <div class="media-left">
+                <a href="#"><i class="fa fa-twitter"></i></a>
+              </div>
+              <div class="media-body">
+                <p><a href="#">@collins,</a> Porton HTML various out now</p>
+                <strong>10 Mins Ago</strong>
+              </div>
+            </div>
+            <div class="media">
+              <div class="media-left">
+                <a href="#"><i class="fa fa-twitter"></i></a>
+              </div>
+              <div class="media-body">
+                <p><a href="#">@Steeltheme,</a> Porton HTML various out now</p>
+                <strong>10 Mins Ago</strong>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <h4>Latest Updates</h4>
+            <div class="media">
+              <div class="media-left">
+                <a href="#"><img class="media-object" src="images/feed-1.png" alt=""></a>
+              </div>
+              <div class="media-body">
+                <p class="update">An engaging video a the post</p>
+                <strong class="update-info"><i class="fa fa-user"></i>Mano <i class="fa fa-eye"></i>22 Viwes</strong>
+              </div>
+            </div>
+            <div class="media">
+              <div class="media-left">
+                <a href="#"><img class="media-object" src="images/feed-1.png" alt=""></a>
+              </div>
+              <div class="media-body">
+                <p class="update">An engaging video a the post</p>
+                <strong class="update-info"><i class="fa fa-user"></i>Mano <i class="fa fa-eye"></i>72 Viwes</strong>
+              </div>
+            </div>
+            <div class="media">
+              <div class="media-left">
+                <a href="#"><img class="media-object" src="images/feed-1.png" alt=""></a>
+              </div>
+              <div class="media-body">
+                <p class="update">An engaging video a the post</p>
+                <strong class="update-info"><i class="fa fa-user"></i>Mano <i class="fa fa-eye"></i>32 Viwes</strong>
+              </div>
+            </div>
+            <div class="media">
+              <div class="media-left">
+                <a href="#"><img class="media-object" src="images/feed-1.png" alt=""></a>
+              </div>
+              <div class="media-body">
+                <p class="update">An engaging video a Nam sunt</p>
+                <strong class="update-info"><i class="fa fa-user"></i>Mano <i class="fa fa-eye"></i>27 Viwes</strong>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <h4>Popular tags</h4>
+            <div class="tags" style="padding-top: 8px;">
+              <a class="btn btn-default btn-sm" href="#">Amazing</a>
+              <a class="btn btn-default btn-sm" href="#">Design</a>
+              <a class="btn btn-default btn-sm" href="#">Jequery</a>
+              <a class="btn btn-default btn-sm" href="#">Photoshop</a>
+              <a class="btn btn-default btn-sm" href="#">art</a>
+              <a class="btn btn-default btn-sm" href="#">wordpres</a>
+            </div>
+
+            <div class="subscribe">
+              <h4>subscribe us</h4>
+              <p>Nam sunt rem beatae architecto cupiditate numquam.</p>
+              <div class="input-group">
+                <input type="text" class="form-control input-sm" placeholder="Email Address">
+                <span class="input-group-btn">
+                                        <button class="btn btn-default input-sm" type="button"><i class="fa fa-check"></i></button>
+                                    </span>
+              </div>
+              <p>We respect your privacy.</p>
+            </div>
+            <ul class="list-inline social-link">
+              <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+              <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+              <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+              <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- footer
+            =======================================-->
+    <section class="footer2">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-3">
+            <div class="well well-lg footer-box">
+              <strong><i class="fa fa-codepen"></i>Eden</strong>
+              <p>Lorem ipsum dolor sit amet, cras enim wisi elit aenean, amet eros curabitur. Wisi ad eget ipsum metus sociis.</p>
+            </div>
+          </div>
+          <div class="col-sm-3">
+            <div class="well well-lg footer-box contact-box">
+              <strong>Contact Us</strong>
+              <p>Phone: (614) 395-2455</p>
+              <p>Email: support@gmail.com</p>
+              <p>Fax: (614) 395-7696</p>
+            </div>
+          </div>
+          <div class="col-sm-3">
+            <div class="well well-lg footer-box service-box">
+              <strong>Services</strong>
+              <ul class="list-unstyled">
+                <li>wordpress</li>
+                <li>Bootstrap</li>
+                <li>Joomla</li>
+                <li>Android</li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-sm-3">
+            <div class="well well-lg footer-box">
+              <strong>Working Hours</strong>
+              <ul class="list-unstyled schedule">
+                <li><span>Open</span><span>9am - 10pm</span></li>
+                <li><span>Friday</span><span>Closed</span></li>
+                <li><span>Saterday</span><span>Closed</span></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <footer class="footer2 f-bottom">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <p>
+              جميع الحقوق محفوظة ل
+              <a href="http://scripteden.com/" target="_blank">
+لعدة التقنية
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
